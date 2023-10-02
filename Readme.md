@@ -1,5 +1,5 @@
 
-## This is a clone of fork of TheCanMole's work in recording of the NZU Carbon Price with additional automation of the scrape itself. 
+## This is a fork of TheCanMole's work in recording of the NZU Carbon Price with additional automation of the scrape itself. 
 Scrape is found in the api.py, to run simply run python api.py, 
 This will pull the data from the Carbon News RSS feed and add it to the nzu-edited-raw-prices-data.csv file. 
 
